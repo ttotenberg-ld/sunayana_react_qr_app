@@ -1,19 +1,17 @@
 {
   "files": {
     "main.css": "/sunayana_react_qr_app/static/css/main.1bca556f.chunk.css",
-    "main.js": "/sunayana_react_qr_app/static/js/main.57e500da.chunk.js",
-    "main.js.map": "/sunayana_react_qr_app/static/js/main.57e500da.chunk.js.map",
-    "runtime-main.js": "/sunayana_react_qr_app/static/js/runtime-main.7c445e3a.js",
-    "runtime-main.js.map": "/sunayana_react_qr_app/static/js/runtime-main.7c445e3a.js.map",
-    "static/css/2.b5030161.chunk.css": "/sunayana_react_qr_app/static/css/2.b5030161.chunk.css",
-    "static/js/2.ff3d4429.chunk.js": "/sunayana_react_qr_app/static/js/2.ff3d4429.chunk.js",
-    "static/js/2.ff3d4429.chunk.js.map": "/sunayana_react_qr_app/static/js/2.ff3d4429.chunk.js.map",
-    "static/js/3.031e0bcb.chunk.js": "/sunayana_react_qr_app/static/js/3.031e0bcb.chunk.js",
-    "static/js/3.031e0bcb.chunk.js.map": "/sunayana_react_qr_app/static/js/3.031e0bcb.chunk.js.map",
+    "main.js": "/sunayana_react_qr_app/static/js/main.f8619e98.chunk.js",
+    "main.js.map": "/sunayana_react_qr_app/static/js/main.f8619e98.chunk.js.map",
+    "runtime-main.js": "/sunayana_react_qr_app/static/js/runtime-main.a870de2b.js",
+    "runtime-main.js.map": "/sunayana_react_qr_app/static/js/runtime-main.a870de2b.js.map",
+    "static/js/2.d48c7ff1.chunk.js": "/sunayana_react_qr_app/static/js/2.d48c7ff1.chunk.js",
+    "static/js/2.d48c7ff1.chunk.js.map": "/sunayana_react_qr_app/static/js/2.d48c7ff1.chunk.js.map",
+    "static/js/3.a92d467a.chunk.js": "/sunayana_react_qr_app/static/js/3.a92d467a.chunk.js",
+    "static/js/3.a92d467a.chunk.js.map": "/sunayana_react_qr_app/static/js/3.a92d467a.chunk.js.map",
     "index.html": "/sunayana_react_qr_app/index.html",
-    "static/css/2.b5030161.chunk.css.map": "/sunayana_react_qr_app/static/css/2.b5030161.chunk.css.map",
     "static/css/main.1bca556f.chunk.css.map": "/sunayana_react_qr_app/static/css/main.1bca556f.chunk.css.map",
-    "static/js/2.ff3d4429.chunk.js.LICENSE.txt": "/sunayana_react_qr_app/static/js/2.ff3d4429.chunk.js.LICENSE.txt",
+    "static/js/2.d48c7ff1.chunk.js.LICENSE.txt": "/sunayana_react_qr_app/static/js/2.d48c7ff1.chunk.js.LICENSE.txt",
     "static/media/astronaut.1d752285.png": "/sunayana_react_qr_app/static/media/astronaut.1d752285.png",
     "static/media/astronaut_old.09554e17.png": "/sunayana_react_qr_app/static/media/astronaut_old.09554e17.png",
     "static/media/heart.3d7839e5.svg": "/sunayana_react_qr_app/static/media/heart.3d7839e5.svg",
@@ -21,10 +19,9 @@
     "static/media/ld_logo_white_old.a7492e3d.png": "/sunayana_react_qr_app/static/media/ld_logo_white_old.a7492e3d.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.7c445e3a.js",
-    "static/css/2.b5030161.chunk.css",
-    "static/js/2.ff3d4429.chunk.js",
+    "static/js/runtime-main.a870de2b.js",
+    "static/js/2.d48c7ff1.chunk.js",
     "static/css/main.1bca556f.chunk.css",
-    "static/js/main.57e500da.chunk.js"
+    "static/js/main.f8619e98.chunk.js"
   ]
 }
