@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/sunayana_react_qr_app/static/css/main.1bca556f.chunk.css",
-    "main.js": "/sunayana_react_qr_app/static/js/main.f8619e98.chunk.js",
-    "main.js.map": "/sunayana_react_qr_app/static/js/main.f8619e98.chunk.js.map",
-    "runtime-main.js": "/sunayana_react_qr_app/static/js/runtime-main.a870de2b.js",
-    "runtime-main.js.map": "/sunayana_react_qr_app/static/js/runtime-main.a870de2b.js.map",
-    "static/js/2.d48c7ff1.chunk.js": "/sunayana_react_qr_app/static/js/2.d48c7ff1.chunk.js",
-    "static/js/2.d48c7ff1.chunk.js.map": "/sunayana_react_qr_app/static/js/2.d48c7ff1.chunk.js.map",
-    "static/js/3.a92d467a.chunk.js": "/sunayana_react_qr_app/static/js/3.a92d467a.chunk.js",
-    "static/js/3.a92d467a.chunk.js.map": "/sunayana_react_qr_app/static/js/3.a92d467a.chunk.js.map",
+    "main.js": "/sunayana_react_qr_app/static/js/main.7767423e.chunk.js",
+    "main.js.map": "/sunayana_react_qr_app/static/js/main.7767423e.chunk.js.map",
+    "runtime-main.js": "/sunayana_react_qr_app/static/js/runtime-main.107a2567.js",
+    "runtime-main.js.map": "/sunayana_react_qr_app/static/js/runtime-main.107a2567.js.map",
+    "static/js/2.f5267aca.chunk.js": "/sunayana_react_qr_app/static/js/2.f5267aca.chunk.js",
+    "static/js/2.f5267aca.chunk.js.map": "/sunayana_react_qr_app/static/js/2.f5267aca.chunk.js.map",
+    "static/js/3.f5ff0fd3.chunk.js": "/sunayana_react_qr_app/static/js/3.f5ff0fd3.chunk.js",
+    "static/js/3.f5ff0fd3.chunk.js.map": "/sunayana_react_qr_app/static/js/3.f5ff0fd3.chunk.js.map",
     "index.html": "/sunayana_react_qr_app/index.html",
     "static/css/main.1bca556f.chunk.css.map": "/sunayana_react_qr_app/static/css/main.1bca556f.chunk.css.map",
-    "static/js/2.d48c7ff1.chunk.js.LICENSE.txt": "/sunayana_react_qr_app/static/js/2.d48c7ff1.chunk.js.LICENSE.txt",
+    "static/js/2.f5267aca.chunk.js.LICENSE.txt": "/sunayana_react_qr_app/static/js/2.f5267aca.chunk.js.LICENSE.txt",
     "static/media/astronaut.1d752285.png": "/sunayana_react_qr_app/static/media/astronaut.1d752285.png",
     "static/media/astronaut_old.09554e17.png": "/sunayana_react_qr_app/static/media/astronaut_old.09554e17.png",
     "static/media/heart.3d7839e5.svg": "/sunayana_react_qr_app/static/media/heart.3d7839e5.svg",
@@ -19,9 +19,9 @@
     "static/media/ld_logo_white_old.a7492e3d.png": "/sunayana_react_qr_app/static/media/ld_logo_white_old.a7492e3d.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.a870de2b.js",
-    "static/js/2.d48c7ff1.chunk.js",
+    "static/js/runtime-main.107a2567.js",
+    "static/js/2.f5267aca.chunk.js",
     "static/css/main.1bca556f.chunk.css",
-    "static/js/main.f8619e98.chunk.js"
+    "static/js/main.7767423e.chunk.js"
   ]
 }
